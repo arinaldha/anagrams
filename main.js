@@ -29,4 +29,5 @@ const words = [
   "makan",
   "kua",
 ];
+console.log("Hasil : ");
 console.log(groupAnagrams(words));
